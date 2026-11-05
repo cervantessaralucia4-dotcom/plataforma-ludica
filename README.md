@@ -2,8 +2,8 @@
 
 Prototipo de una plataforma web lúdica de cursos para niños, desarrollado con FastAPI.
 
-- **Aprendiz:** Nombre Apellido
-- **Curso y mecánica:** (complete)
+- **Aprendiz:** Sara Cervantes
+- **Curso y mecánica:** Geografía de Colombia-Niveles
 - **Aplicación publicada:** (complete con la URL de Render)
 
 ## Ejecutar en su equipo
