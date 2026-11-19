@@ -1,0 +1,16 @@
+# Dudas del encargo
+
+Curso: Geografía de Colombia. Mecánica: Niveles.
+
+| N.o | Duda | Tipo | Supuesto propuesto | Justificación |
+| --- | --- | --- | --- | --- |
+| 1 | ¿Puede el niño repetir una actividad ya completada? | Vacío | Sí. Cada repetición registra su resultado y el progreso conserva el mejor intento. | Permite practicar sin perder el avance obtenido y hace verificable la repetición del nivel. |
+| 2 | ¿Qué ocurre si el niño abandona un nivel antes de terminarlo? | Vacío | El intento incompleto no suma aciertos ni desbloqueos y puede reanudarse o reiniciarse según el momento de salida. | Evita contar respuestas parciales como un intento terminado y mantiene disponible el nivel. |
+| 3 | ¿El 80 % se calcula sobre el intento actual, el mejor intento o todos los intentos acumulados? | Ambigüedad | Se calcula sobre el intento actual únicamente. | Es concreto para la animación de desbloqueo y coincide con el ejemplo del nivel de 10 preguntas. |
+| 4 | ¿Las respuestas correctas e incorrectas de intentos anteriores se conservan al repetir un nivel? | Vacío | Cada intento comienza sin respuestas anteriores y solo el resultado del intento nuevo participa en el desbloqueo. | Reiniciar el nivel evita confundir intentos acumulados con el porcentaje del intento actual. |
+| 5 | ¿Cuándo una actividad se considera completada: al responder todo, al alcanzar el objetivo o al finalizar la interacción? | Vacío | Una actividad se considera completada cuando el niño responde todas sus preguntas o termina su única interacción definida. | Distingue una actividad terminada de un nivel aprobado y permite registrar completitud sin ambigüedad. |
+| 6 | ¿Qué tiempo se registra como tiempo de juego: tiempo activo, tiempo total de la sesión o tiempo por actividad? | Ambigüedad | Se registra el tiempo activo por actividad y se suma al tiempo total del niño. | Usa una medida limitada y verificable sin incluir periodos en los que la aplicación no esté en uso. |
+| 7 | ¿Cómo se debe comparar a los niños para aplicar la competencia entre ellos? | Ambigüedad | No habrá ranking público en el MVP; la comparación será solo docente frente a porcentajes individuales. | Mantiene la mecánica competitiva mediante medición sin definir reglas sociales adicionales no mencionadas. |
+| 8 | ¿Puede el docente seleccionar regiones para una unidad sin alterar el avance o el acceso a las demás regiones? | Vacío | La selección limita las actividades asignadas al grupo, pero no bloquea ni elimina otras regiones del mapa global. | Separa el alcance de una asignación docente del progreso individual y evita restricciones permanentes. |
+| 9 | ¿Qué resultados de confusión debe mostrar el docente: departamento, capital, combinación departamento-capital o todos ellos por intento? | Ambigüedad | El docente verá la cantidad de respuestas incorrectas por departamento y por capital, con fecha del último intento. | Presenta la información solicitada en una forma pequeña y verificable sin mezclar conceptos no definidos. |
+| 10 | ¿La cantidad de preguntas puede variar entre niveles o todos los niveles deben tener el mismo número? | Vacío | Cada nivel puede tener una cantidad definida por el contenido, sin exigir una cantidad fija entre niveles. | Permite construir niveles distintos mientras conserva el cálculo porcentual basado en aciertos sobre intentos. |
