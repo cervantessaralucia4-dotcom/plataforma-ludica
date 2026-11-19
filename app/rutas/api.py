@@ -25,6 +25,12 @@ def salud():
     return Salud(estado="ok")
 
 
+@router.get("/api/version", tags=["Proyecto"])
+def version():
+    """Devuelve la versión de la aplicación."""
+    return {"version": proyecto.VERSION}
+
+
 @router.get("/api/proyecto", response_model=DatosProyecto, tags=["Proyecto"])
 def datos_proyecto():
     """Devuelve los datos de identificación del proyecto."""
